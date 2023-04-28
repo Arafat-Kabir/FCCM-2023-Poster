@@ -1,5 +1,6 @@
 # FCCM 2023 Poster Presentation
 ## Making BRAMs Compute: Creating Scalable Computational Memory Fabric Overlays
+MD Arafat Kabir, Joshua Hollis, Atiyehsadat Panahi, Jason Bakos, Miaoqing Huang, and David Andrews
 ### Abstract
 The increasing density of distributed BRAMs diffused throughout modern Field
 Programmable Gate Array (FPGAs) is ideal for forming the core of scalable
